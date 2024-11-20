@@ -1,0 +1,177 @@
+DATA MART,REPORT NAME
+Asset Protection,AP_001_CashRefundReport
+Asset Protection, AP_001_CashRefundReport
+Asset Protection,AP_002_ReturnWithoutReceipt
+Asset Protection,AP_006_GiftCardRedemption 
+Asset Protection,AP_007_PaidInPaidOut
+Asset Protection,AP_008_NoSalesReport 
+Asset Protection,AP_004_EmployeeDiscountReport
+Asset Protection,AP_003_PriceReductions
+Asset Protection,AP_005_GiftCardAct
+Ecommerce,Ecom-009-PricebyUPC 
+Ecommerce,Ecom_004_AptosHJEOMLookUp 
+Ecommerce,Ecom_001_EOMReserveTransReport 
+Ecommerce,Ecom_012_JordanRaffleWinnerReport 
+Ecommerce,Ecom_013_JordanRaffleWinnerReportRound2 
+Ecommerce,Ecom_014_AptosEcomWeeklySalesSummaryReport
+Ecommerce,Ecom_015_HJInventoryReport
+Ecommerce,Ecom_016_EcomReserveTransReportwithDate
+Ecommerce,Ecom_017_EOMReserveTransWithOrderCreate
+Finance,FN_001_DailyLaborReport 
+Finance,FN_005_DailyLaborReport(Adhoc) 
+Finance,FN_006_TransferReport 
+HighJump, HJ_003_Productivity_Daily 
+HighJump, HJ_036_AptosInventoryAgingReport
+HighJump,HJ_001_Shipped Units by Store
+HighJump,HJ_005_CacellationAnalysisReport 
+HighJump,HJ_008_Physicalinventoryvariance
+HighJump,HJ_009_HighJumpPickShipCancel
+HighJump,HJ_010_OrderCancellationsbyStore
+HighJump,HJ_023_DCReplenishmentSequence
+HighJump,HJ_026_ReceiptsInDollars 
+HighJump,HJ_027_POReport
+HighJump,HJ_036_AptosInventoryAgingReport
+HighJump,HJ_037_EcomInventoryAgingReport 
+HighJump,HJ_039_HJAptosDistroCancelException 
+HighJump,HJ_043_StockPickerProductivity 
+HighJump,HJ_044_StockPickerProductivity(Adhoc) 
+HighJump,HJ_046_DCTransferReceiptReport
+HighJump,HJ_047_Bulk2PicksBySubtype 
+HighJump,HJ_006_OrderAgingProfileReport
+HighJump,HJ_011_PickYieldbyStore
+HighJump,HJ_012_ItemInDemand
+HighJump,HJ_013_ShipmentReport
+HighJump,HJ_014_eComOrderAgingProfileReport
+HighJump,HJ_015_eComHighJumpPickShipCancel
+HighJump,HJ_016_FiveUnitOrLessReport 
+HighJump,HJ_020_eCom_10DayCancellationReport
+HighJump,HJ_021_Needs Replenishment Generated
+HighJump,HJ_022_No Forward Pick Location
+HighJump,HJ_024_Needs Replenishment Executed
+HighJump,HJ_025_ShipmentComparison
+HighJump,HJ_028_0999EcomOrderAgingProfileReport 
+HighJump,HJ_030_ShipmentTrackingReport
+HighJump,HJ_032_UnavailableItemLocationReport
+HighJump,HJ_033_ReceiptInDollarRMA 
+HighJump, HJ_040_ItemDimData 
+HighJump,HJ_041_OneTouchFailedOrder 
+HighJump,HJ_042_DBRPutAwayReport 
+HighJump, HJ_045_HourlyOpenReplenishments
+HighJump,HJ_007_InActiveLocationDetail30_Update
+HighJump,HJ_038_EcomUPSTrackingReport
+Inventory Control,IC_001_InventoryAdjustment
+Inventory Control,IC_002_0777StoreShipSummary 
+Inventory Control,IC_003_0777StoreShipSummary_Adhoc 
+Inventory Control,IC_004_StoreShipSummary 
+Inventory Control,IC_005_StoreShipSummary_Adhoc 
+Inventory Control, IC_006_ShrinkReport 
+Inventory Control,IC_009_tran_log_Hist 
+Inventory Control,IC_010_ExceptionReport
+Inventory Control,IC_013_TransferReport
+Inventory Control,IC_014_eCom_ARCH_tran_log_HIST 
+Inventory Control,IC_015_ICStoreShipmentReport 
+Inventory Control,IC_018_AptosIVRReport 
+Inventory Control,IC_019_AptosEcomIVRReport 
+Inventory Control,IC_020_AptosPOREC_Comparison
+Inventory Control,IC_021_ARCH_tran_log_HIST 
+Inventory Control,IC_022_AuditTrail 
+Inventory Control,IC_023_DuplicateCartoonLookUp 
+Inventory Control,IC_025_IBCostFactor 
+Inventory Control,IC_026_StoreOnHand 
+Inventory Control,IC_027_IMRDReport 
+Inventory Control,IC_028_OpenIMRDReport 
+Inventory Control,IC_029_AdhocIMRDReport 
+Marketing,MRK_005_DodgersTextToWin 
+Marketing,MRK_006_FloridaCustomerLoyaltyReport
+Merchandise, Merch-021-HierarchywithDiscStyle
+Merchandise, Merch-041-TransferInquiryReport 
+Merchandise, Merch-018-AptosWeeklySalesSummaryReport
+Merchandise, Merch-051-ActiveInactiveHierarchy
+Merchandise,Merch-010-DCReceiptReport
+Merchandise,Merch-011-StoreShipmentReport
+Merchandise,Merch-012-AdhocWeeklySalesSummaryByStore 
+Merchandise,Merch-015-AptosYearlySalesSummaryReport
+Merchandise,Merch-016-AptosQuarterlySalesSummaryReport
+Merchandise,Merch-017-AptosMontlySalesSummaryReport
+Merchandise,Merch-019-OnOrderReport
+Merchandise,Merch-022-HierarchywithoutStyle
+Merchandise,Merch-026-Adhoc-AptosWeeklySalesSummaryReport 
+Merchandise,Merch-027-VendorReport
+Merchandise,Merch-029-DCDistro
+Merchandise,Merch-030-Str_to_Str_Xfer
+Merchandise,Merch-031-AptosQuaterlySalesSummary_NonNRF_Report
+Merchandise,Merch-032-HierarchywithSize
+Merchandise,Merch-033-AptosWeeklySalesWithoutECDC-DC
+Merchandise,Merch-036-JordanReleaseSalesRecap
+Merchandise,Merch-039-StoreColdSalesSummaryReport
+Merchandise,Merch-040-HotSellerReport
+Merchandise,Merch-042-SalesByStoreDept
+Merchandise,Merch-043-SalesbyStyleandStore
+Merchandise,Merch-044-UnapprovedPOReport
+Merchandise,Merch-046-RoutingReport
+Merchandise,Merch-046-RoutingReport 
+Merchandise,Merch-047-InStockReport
+Merchandise,Merch-047-InStockReport 
+Merchandise,Merch-048-POReceivedReport
+Merchandise,Merch-049-EmployeeDiscountReport 
+Merchandise,Merch-052-Stylelist
+Merchandise,Merch-053-OnOrderPendingResubmitExceptionReport
+Merchandise,Merch-054-SalesbyWeek
+Merchandise,Merch-055-NikeOnOrderReport
+Merchandise,Merch-056-PendingResumitPOReport
+Merchandise,Merch-057-AdidasOnOrderReport 
+Merchandise,Merch-058-PrivateLabelOnOrderReport
+Merchandise,Merch-060-ReplenishmentFlagReport
+Merchandise,Merch-061-SuggestedOrders
+Merchandise,Merch-062-StoreShipmentReportHouston 
+Merchandise,Merch-063-DCReceiptReportHouston
+Merchandise,Merch-064-AptosWeeklySalesSummaryReportTexas
+Merchandise,Merch-065-DCReplenishment999to998Stores
+Merchandise,Merch-066-ImportOnOrderReport
+Merchandise,Merch-067-AllowCustomerOrderReport 
+Merchandise,Merch-068-ProClubOnOrderReport 
+Merchandise,Merch-069-NikeJordanWeeklySalesSummaryReport
+Merchandise,Merch-070-EDIPendingTransmitReport
+Merchandise,Merch-071-KEYInStockReport
+Merchandise,Merch-072-HoustonInStockReport
+Merchandise,Merch-073-HoustonKEYInStockReport
+Store Operation,SO_045_SalesflashvsForecast
+Store Operation,SO_022_RegisterTransactionCount
+Store Operation, SO_001_FlashSalesByDistrict
+Store Operation,SO_002_Top50ChainReport
+Store Operation,SO_003_ProductSalesReport(ALLComp)
+Store Operation,SO_004_ProductSalesReport(ByStore)
+Store Operation,SO_005_ProductSalesReport(ByDistrict)
+Store Operation,SO_006_PMTrendReport
+Store Operation, SO_007_CustomerReturnReport
+Store Operation,SO_008_SalesByPricePointReport
+Store Operation, SO_009_SpiffReport(Summary)
+Store Operation,SO_011_EmployeeSalesReport
+Store Operation, SO_014_OmniChannelFulfillment_MTD
+Store Operation, SO_014_OmniChannelFulfillment_MTD
+Store Operation,SO_018_ProductSalesReportAdhoc
+Store Operation,SO_019_StoreSalesResultsvsPlan
+Store Operation, SO_020_OmniChannelSalesReport
+Store Operation, SO_023_LoyaltyReport
+Store Operation, SO_024_SPIFFPayoutReport
+Store Operation, SO_025_FlashSalesExceptionReport
+Store Operation, SO_026_MealPenalty_CorporateReport
+Store Operation,SO_027_MealPenaltyReport
+Store Operation,SO_028_StoreManagerOvertimeReport
+Store Operation, SO_029_AssetProtectionOvertimeReport
+Store Operation,SO_030_AssetProtectionLaborReport
+Store Operation,SO_031_Omni_SPIFFPayoutReport
+Store Operation,SO_032_DepartmentSalesBySKUReport
+Store Operation,SO_033_DepartmentSalesBySKUReport(BYDistrict)
+Store Operation, SO_034_DepartmentSalesbySKU(TotalCompany)
+Store Operation,SO_036_FullMonthSalesRetailReport
+Store Operation, SO_037_CustomerServiceCallCenterReport
+Store Operation,SO_039_LoyaltyTransactionsbyCashier
+Store Operation,SO_041_RetailSalesReport
+Store Operation, SO_042_TransactionDetailsReview
+Store Operation, SO_043_HelpDeskCallCenterReport
+Store Operation, SO_046_DailySalesFlash
+Store Operation,SO_047_MobilePriceCheckReport
+Store Operation,SO_048_DailyStoreRecap
+Store Operation, SO_049_COLaborReport
+Store Operation, SO_050_TrafficYOYMarketingReport
